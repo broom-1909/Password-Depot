@@ -216,4 +216,4 @@ Password Depot is available as a **full free version** with all features and upd
 Ready to manage your passwords securely and easily? **Download Password Depot now and take control of your online security!**
 
 ---
-**Last updated:** 2026-09-16 07:31:03 UTC
+**Last updated:** 2026-09-16 13:20:44 UTC
